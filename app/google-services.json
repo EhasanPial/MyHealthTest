@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6898110539",
+    "project_id": "my-health-99a03",
+    "storage_bucket": "my-health-99a03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6898110539:android:ed9aa1da50d56bc7c63dce",
+        "android_client_info": {
+          "package_name": "com.pialroni.myhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6898110539-b5j57159j3q4s48tqm5bmq3ebu87ujns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbJNYl7KvlKjU_-STsM4x03uus74jfyC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6898110539-b5j57159j3q4s48tqm5bmq3ebu87ujns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
